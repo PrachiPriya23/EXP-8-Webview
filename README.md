@@ -1,14 +1,4 @@
 # MAD Experiment 8 – WebView and Menu Application
-
-## Student Details
-
-**Name:** Md Atiullah Ansari  
-**USN:** [25MCAR0108]  
-**Course:** Mobile Application Development  
-**Experiment:** 8 – WebView and Menu Application  
-
----
-
 ## Aim
 
 To develop an Android application using Kotlin that demonstrates the use of WebView, Options Menu, Popup Menu, Fragments, image display, and bottom navigation.
